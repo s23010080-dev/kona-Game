@@ -1,1 +1,1 @@
-# kana-Game
+# kana game
